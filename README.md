@@ -2,6 +2,17 @@
 
 A complete payment wallet application built using modern technologies and the highest security standards.
 
+## Screens and Video
+<img width="1021" height="808" alt="1" src="https://github.com/user-attachments/assets/518332dd-2229-4d8e-9dbc-48e088ccd479" />
+<img width="1028" height="866" alt="2" src="https://github.com/user-attachments/assets/b1edf4d9-e41d-4f7f-ac7e-601c03d86078" />
+<img width="1023" height="864" alt="3" src="https://github.com/user-attachments/assets/1ede3426-0ac8-47c4-8d73-a9e8b6a3f01c" />
+
+
+https://github.com/user-attachments/assets/1a955104-448a-445f-b7c8-628cef18ac0a
+
+
+
+
 ## 🏗️ Architecture
 
 ### Frontend
