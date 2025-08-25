@@ -1,21 +1,23 @@
-MIT License
+Semi-Open License (Personal, Non-Commercial Use)
 
-Copyright (c) 2025 Dr.Kapuzuke
+Authors:
+- Aleksander Kapczuk (R3PER)
+- Jakub Pietrzak (Riv)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Permitted:
+   - Modifying the source code, concept, or other project elements strictly for personal, private, and non-commercial use.
+   - Running and testing the project on personal devices.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Prohibited:
+   - Using the project or any part of it for commercial purposes.
+   - Distributing either the modified or original version of the code.
+   - Removing or altering author credits (R3PER and Riv).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Attribution:
+   - In all cases, credits to the authors must be preserved: Aleksander Kapczuk (R3PER) and Jakub Pietrzak (Riv).
+   - If third-party code fragments are used, the original author and source must be acknowledged.
+
+4. Liability:
+   - The authors are not responsible for any consequences resulting from the use of this project.
+
+This license is effective from the moment it is published in the repository.
